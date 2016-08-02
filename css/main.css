@@ -1,0 +1,89 @@
+.orange{/* fondo amarillo */
+	 background-color:#F1C40F ;
+	 background-size:cover;
+	 height: 600px;
+	 background-repeat: no-repeat;
+}   
+.sumate{/*boton sumate*/
+	background-color:orange;
+	padding: 2%; 
+	margin-left: 30%;
+	margin-top: 10%;
+	color: white;
+	text-decoration: none;
+
+}
+.decosuma{/*boton sumate*/
+	color: white;
+	text-decoration: none;
+}
+ul li{/*boton sumate*/
+	text-decoration: none;
+	list-style-type: none;
+	display: inline-block;
+	margin: 10%;
+	color: white;
+}
+.blanco{/*letras blancas centro*/
+	color: white;
+}
+.blancomov{/*movimiento de texto blanco*/
+margin-top: 10%;
+}
+.gris{/*fondo gris*/
+	background-color: #E5E8E8;
+	background-size:cover;
+	height: 1400px;
+	background-repeat: no-repeat;
+}
+.cuadblanco{/*fondo de cuandro blanco*/
+	background-color: #FDFEFE;
+	background-size:cover;
+	height: 600px;
+	width: 500px;
+	background-repeat: no-repeat;
+	margin: 3%;
+	margin-left: 10%;
+}
+.cinema{/*imagen de cinema*/
+	width:300px;
+	height: 300px;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 10%;
+}
+.titulo{/*titulo de cinema*/
+font-family: arial solid;
+font-size: 150%;
+margin: 3%;
+color: #7B7D7D  ;
+}
+.info{/*letras de la descripcion*/
+font-family: arial;
+margin: 3%;
+color: #979A9A;
+}
+.leermas{/*boton leer mas*/
+	background-color:orange;
+	padding: 2%; 
+	margin-left: 30%;
+	margin-top: 10%;
+	color: white;
+	text-decoration: none;
+
+}
+.decoleer{/*boton sumate*/
+	color: white;
+	text-decoration: none;
+}
+.negro{
+	background-color: #17202A;
+	background-size:cover;
+	height: 100px;
+	background-repeat: no-repeat;
+}
+.laboratoria{
+	color:white;
+	margin-left: 10%;
+	margin-top: 2%;
+}
